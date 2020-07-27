@@ -1,2 +1,3 @@
-# tensaiscorner.github.io
-Tensai's Corner
+---
+permalink: /home.html
+---
