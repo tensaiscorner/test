@@ -3,3 +3,7 @@
 ---
 permalink: /home.html
 ---
+
+<script>
+  location.replace("https://www.w3schools.com")
+</script>
