@@ -2,5 +2,5 @@
 tensaiscorner.github.io
 
 <script>
-  //location.replace("https://tensaiscorner.github.io/home")
+  location.replace("https://tensaiscorner.github.io/home")
 </script>
